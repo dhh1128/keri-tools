@@ -1,0 +1,17 @@
+title: keri-tools
+description: simple tools that provide some KERI features 
+author:
+  name: "Daniel Hardman"
+  twitter: "dhh1128"
+  email: "daniel.hardman@gmail.com"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: false
+include:
+  - robots.txt
+  - *.js
+  - *.py
+  - saidify
+  - LICENSE
